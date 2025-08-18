@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasu-goswami/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vasu-goswami/LC/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/vasu-goswami/LC/tree/master/0168-excel-sheet-column-title) |
+| [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vasu-goswami/LC/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vasu-goswami/LC/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasu-goswami/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vasu-goswami/LC/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 ## Sorting
 |  |
 | ------- |
