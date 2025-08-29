@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0686-repeated-string-match](https://github.com/vasu-goswami/LC/tree/master/0686-repeated-string-match) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vasu-goswami/LC/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/vasu-goswami/LC/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
 | [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vasu-goswami/LC/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/vasu-goswami/LC/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
 | [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
