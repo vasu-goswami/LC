@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0686-repeated-string-match](https://github.com/vasu-goswami/LC/tree/master/0686-repeated-string-match) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/vasu-goswami/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vasu-goswami/LC/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/vasu-goswami/LC/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vasu-goswami/LC/tree/master/0168-excel-sheet-column-title) |
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [1448-maximum-69-number](https://github.com/vasu-goswami/LC/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/vasu-goswami/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 ## String Matching
 |  |
 | ------- |
