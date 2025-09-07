@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/vasu-goswami/LC/tree/master/0686-repeated-string-match) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vasu-goswami/LC/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1764-maximum-repeating-substring](https://github.com/vasu-goswami/LC/tree/master/1764-maximum-repeating-substring) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vasu-goswami/LC/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/vasu-goswami/LC/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/vasu-goswami/LC/tree/master/1894-merge-strings-alternately) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasu-goswami/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/vasu-goswami/LC/tree/master/0686-repeated-string-match) |
+| [1764-maximum-repeating-substring](https://github.com/vasu-goswami/LC/tree/master/1764-maximum-repeating-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vasu-goswami/LC/tree/master/1013-fibonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/vasu-goswami/LC/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
