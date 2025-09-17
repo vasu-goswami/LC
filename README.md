@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vasu-goswami/LC/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasu-goswami/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vasu-goswami/LC/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/vasu-goswami/LC/tree/master/0168-excel-sheet-column-title) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vasu-goswami/LC/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vasu-goswami/LC/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vasu-goswami/LC/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/vasu-goswami/LC/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/vasu-goswami/LC/tree/master/0189-rotate-array) |
