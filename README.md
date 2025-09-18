@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu-goswami/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasu-goswami/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/vasu-goswami/LC/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/vasu-goswami/LC/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/vasu-goswami/LC/tree/master/0498-diagonal-traverse) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vasu-goswami/LC/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasu-goswami/LC/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/vasu-goswami/LC/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vasu-goswami/LC/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/vasu-goswami/LC/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
