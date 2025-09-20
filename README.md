@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/vasu-goswami/LC/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/vasu-goswami/LC/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
 | [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vasu-goswami/LC/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/vasu-goswami/LC/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vasu-goswami/LC/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/vasu-goswami/LC/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vasu-goswami/LC/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vasu-goswami/LC/tree/master/0137-single-number-ii) |
+| [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 ## Trie
 |  |
 | ------- |
