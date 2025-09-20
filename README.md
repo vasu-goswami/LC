@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasu-goswami/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vasu-goswami/LC/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/vasu-goswami/LC/tree/master/0168-excel-sheet-column-title) |
+| [0392-is-subsequence](https://github.com/vasu-goswami/LC/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0686-repeated-string-match](https://github.com/vasu-goswami/LC/tree/master/0686-repeated-string-match) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vasu-goswami/LC/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vasu-goswami/LC/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vasu-goswami/LC/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/vasu-goswami/LC/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vasu-goswami/LC/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu-goswami/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasu-goswami/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/vasu-goswami/LC/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/vasu-goswami/LC/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/vasu-goswami/LC/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
