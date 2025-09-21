@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/vasu-goswami/LC/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vasu-goswami/LC/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
+| [1054-complement-of-base-10-integer](https://github.com/vasu-goswami/LC/tree/master/1054-complement-of-base-10-integer) |
 ## Trie
 |  |
 | ------- |
