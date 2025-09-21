@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vasu-goswami/LC/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/vasu-goswami/LC/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/vasu-goswami/LC/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/vasu-goswami/LC/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 ## Trie
 |  |
