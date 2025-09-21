@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vasu-goswami/LC/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu-goswami/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasu-goswami/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/vasu-goswami/LC/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vasu-goswami/LC/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/vasu-goswami/LC/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/vasu-goswami/LC/tree/master/1764-maximum-repeating-substring) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vasu-goswami/LC/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vasu-goswami/LC/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vasu-goswami/LC/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/vasu-goswami/LC/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 ## Trie
 |  |
