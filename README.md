@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vasu-goswami/LC/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vasu-goswami/LC/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/vasu-goswami/LC/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/vasu-goswami/LC/tree/master/0401-binary-watch) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 ## Trie
 |  |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vasu-goswami/LC/tree/master/0190-reverse-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/vasu-goswami/LC/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
