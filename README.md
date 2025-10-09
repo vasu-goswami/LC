@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vasu-goswami/LC/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/vasu-goswami/LC/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/vasu-goswami/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/vasu-goswami/LC/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/vasu-goswami/LC/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vasu-goswami/LC/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/vasu-goswami/LC/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vasu-goswami/LC/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vasu-goswami/LC/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/vasu-goswami/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/vasu-goswami/LC/tree/master/1054-complement-of-base-10-integer) |
 ## Trie
