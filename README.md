@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/vasu-goswami/LC/tree/master/0556-next-greater-element-iii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/vasu-goswami/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/vasu-goswami/LC/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vasu-goswami/LC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/vasu-goswami/LC/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vasu-goswami/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/vasu-goswami/LC/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/vasu-goswami/LC/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/vasu-goswami/LC/tree/master/1054-complement-of-base-10-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vasu-goswami/LC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
 | ------- |
