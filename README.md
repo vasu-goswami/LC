@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/vasu-goswami/LC/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/vasu-goswami/LC/tree/master/0861-flipping-an-image) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vasu-goswami/LC/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
 | [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vasu-goswami/LC/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/vasu-goswami/LC/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vasu-goswami/LC/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vasu-goswami/LC/tree/master/0274-h-index) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vasu-goswami/LC/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/vasu-goswami/LC/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/vasu-goswami/LC/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vasu-goswami/LC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vasu-goswami/LC/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
