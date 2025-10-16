@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vasu-goswami/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/vasu-goswami/LC/tree/master/1839-decode-xored-array) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2027-maximum-number-of-removable-characters](https://github.com/vasu-goswami/LC/tree/master/2027-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/vasu-goswami/LC/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vasu-goswami/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/vasu-goswami/LC/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/vasu-goswami/LC/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vasu-goswami/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/vasu-goswami/LC/tree/master/1839-decode-xored-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -185,8 +188,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/vasu-goswami/LC/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vasu-goswami/LC/tree/master/0238-product-of-array-except-self) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
