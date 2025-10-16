@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/vasu-goswami/LC/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vasu-goswami/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vasu-goswami/LC/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1873-longest-nice-substring](https://github.com/vasu-goswami/LC/tree/master/1873-longest-nice-substring) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/vasu-goswami/LC/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/vasu-goswami/LC/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vasu-goswami/LC/tree/master/1923-sentence-similarity-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vasu-goswami/LC/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasu-goswami/LC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vasu-goswami/LC/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1873-longest-nice-substring](https://github.com/vasu-goswami/LC/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/vasu-goswami/LC/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vasu-goswami/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/vasu-goswami/LC/tree/master/1839-decode-xored-array) |
+| [1873-longest-nice-substring](https://github.com/vasu-goswami/LC/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vasu-goswami/LC/tree/master/0190-reverse-bits) |
+| [1873-longest-nice-substring](https://github.com/vasu-goswami/LC/tree/master/1873-longest-nice-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/vasu-goswami/LC/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
