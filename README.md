@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vasu-goswami/LC/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/vasu-goswami/LC/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vasu-goswami/LC/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vasu-goswami/LC/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vasu-goswami/LC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vasu-goswami/LC/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu-goswami/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vasu-goswami/LC/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/vasu-goswami/LC/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vasu-goswami/LC/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vasu-goswami/LC/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vasu-goswami/LC/tree/master/0190-reverse-bits) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vasu-goswami/LC/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/vasu-goswami/LC/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vasu-goswami/LC/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
