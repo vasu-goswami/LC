@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/vasu-goswami/LC/tree/master/1873-longest-nice-substring) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vasu-goswami/LC/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
